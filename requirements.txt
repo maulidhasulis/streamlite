@@ -1,7 +1,7 @@
 streamlit
-pymongo
+pymongo[srv]
 pandas
 matplotlib
-nltk
 wordcloud
+nltk
 dnspython
